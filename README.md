@@ -3,7 +3,7 @@ The source code for my Bachellor's degree Thesis!
 
 The project consists of a Desktop aplication and an Arduino UNO program interfacing with each other and outputting sensor data to save them on an SQL database or extact them into .csv files.
 
-This thesis was made in 2018-2019, when Venezuela was in a severe economic crisis. Our original scope was to recreate a PASCO laboratory equipment using an Arduino Device for our university, because the original hardware was unsupported on modern versionof Microsoft® Windows.
+This thesis was made in 2018-2019, when Venezuela was in a severe economic crisis. Our original scope was to recreate a PASCO laboratory equipment using an Arduino Device for our university, because the original hardware was unsupported on modern version of Microsoft® Windows.
 
 However, due  to difficulties in finding the necessary hardware and monetary constrains we had to scale it down into just emulating two out of the 8+ available sensors.
 
