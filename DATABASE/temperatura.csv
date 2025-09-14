@@ -1,0 +1,1001 @@
+id_Temperatura,Temp_Y,Tipo_Y,Tiempo_X,Tipo_X,Experimento_id_Experimento
+1,196.97,Celcius,0,Segundos,1
+2,186.71,Celcius,0.5,Segundos,1
+3,178.89,Celcius,1,Segundos,1
+4,173.02,Celcius,1.5,Segundos,1
+5,168.13,Celcius,2,Segundos,1
+6,164.22,Celcius,2.5,Segundos,1
+7,161.78,Celcius,3,Segundos,1
+8,159.82,Celcius,3.5,Segundos,1
+9,158.85,Celcius,4,Segundos,1
+10,158.85,Celcius,4.5,Segundos,1
+11,158.85,Celcius,5,Segundos,1
+12,158.36,Celcius,5.5,Segundos,1
+13,157.38,Celcius,6,Segundos,1
+14,156.4,Celcius,6.5,Segundos,1
+15,26.39,(C),0,(s),2
+16,26.39,(C),0.5,(s),2
+17,26.39,(C),1,(s),2
+18,26.39,(C),1.5,(s),2
+19,26.39,(C),2,(s),2
+20,26.39,(C),2.5,(s),2
+21,26.39,(C),3,(s),2
+22,26.39,(C),3.5,(s),2
+23,26.88,(C),4,(s),2
+24,26.39,(C),4.5,(s),2
+25,26.39,(C),5,(s),2
+26,26.88,(C),5.5,(s),2
+27,26.88,(C),6,(s),2
+28,27.37,(C),6.5,(s),2
+29,27.86,(C),7,(s),2
+30,27.86,(C),7.5,(s),2
+31,27.86,(C),8,(s),2
+32,28.35,(C),8.5,(s),2
+33,28.35,(C),9,(s),2
+34,28.84,(C),9.5,(s),2
+35,29.33,(C),10,(s),2
+36,29.33,(C),10.5,(s),2
+37,29.33,(C),11,(s),2
+38,29.33,(C),11.5,(s),2
+39,29.33,(C),12,(s),2
+40,29.81,(C),12.5,(s),2
+41,29.81,(C),13,(s),2
+42,29.81,(C),13.5,(s),2
+43,29.81,(C),14,(s),2
+44,29.81,(C),14.5,(s),2
+45,29.81,(C),15,(s),2
+46,29.81,(C),15.5,(s),2
+47,29.33,(C),16,(s),2
+48,29.33,(C),16.5,(s),2
+49,29.33,(C),17,(s),2
+50,26.88,(C),0,(s),3
+51,26.88,(C),0.5,(s),3
+52,26.88,(C),1,(s),3
+53,26.88,(C),1.5,(s),3
+54,26.88,(C),2,(s),3
+55,26.88,(C),2.5,(s),3
+56,26.88,(C),3,(s),3
+57,26.88,(C),3.5,(s),3
+58,26.88,(C),4,(s),3
+59,26.39,(C),0,(s),4
+60,26.39,(C),0.5,(s),4
+61,26.39,(C),1,(s),4
+62,26.39,(C),1.5,(s),4
+63,25.9,(C),2,(s),4
+64,25.9,(C),2.5,(s),4
+65,26.39,(C),3,(s),4
+66,26.39,(C),3.5,(s),4
+67,25.9,(C),4,(s),4
+68,26.39,(C),4.5,(s),4
+69,26.39,(C),5,(s),4
+70,25.9,(C),5.5,(s),4
+71,26.39,(C),6,(s),4
+72,25.9,(C),6.5,(s),4
+73,25.9,(C),7,(s),4
+74,25.9,(C),7.5,(s),4
+75,25.9,(C),8,(s),4
+76,25.9,(C),8.5,(s),4
+77,26.39,(C),9,(s),4
+78,26.39,(C),9.5,(s),4
+79,26.39,(C),10,(s),4
+80,26.39,(C),10.5,(s),4
+81,26.39,(C),11,(s),4
+82,26.88,(C),11.5,(s),4
+83,26.88,(C),12,(s),4
+84,26.88,(C),12.5,(s),4
+85,26.88,(C),13,(s),4
+86,27.37,(C),13.5,(s),4
+87,26.39,(C),14,(s),4
+88,26.88,(C),14.5,(s),4
+89,26.88,(C),15,(s),4
+90,26.88,(C),15.5,(s),4
+91,26.39,(C),16,(s),4
+92,27.37,(C),16.5,(s),4
+93,27.37,(C),17,(s),4
+94,27.86,(C),17.5,(s),4
+95,27.37,(C),18,(s),4
+96,27.86,(C),18.5,(s),4
+97,27.86,(C),19,(s),4
+98,27.86,(C),19.5,(s),4
+99,28.35,(C),20,(s),4
+100,28.35,(C),20.5,(s),4
+101,28.35,(C),21,(s),4
+102,28.35,(C),21.5,(s),4
+103,28.35,(C),22,(s),4
+104,28.35,(C),22.5,(s),4
+105,28.84,(C),23,(s),4
+106,28.84,(C),23.5,(s),4
+107,28.84,(C),24,(s),4
+108,28.84,(C),24.5,(s),4
+109,28.84,(C),25,(s),4
+110,28.35,(C),25.5,(s),4
+111,28.84,(C),26,(s),4
+112,28.35,(C),26.5,(s),4
+113,28.35,(C),27,(s),4
+114,28.35,(C),27.5,(s),4
+115,28.35,(C),28,(s),4
+116,28.35,(C),28.5,(s),4
+117,28.35,(C),29,(s),4
+118,27.86,(C),29.5,(s),4
+119,27.86,(C),30,(s),4
+120,27.86,(C),30.5,(s),4
+121,27.37,(C),31,(s),4
+122,27.37,(C),31.5,(s),4
+123,27.37,(C),32,(s),4
+124,27.37,(C),32.5,(s),4
+125,27.37,(C),33,(s),4
+126,27.37,(C),33.5,(s),4
+127,27.37,(C),34,(s),4
+128,26.88,(C),34.5,(s),4
+129,27.37,(C),35,(s),4
+130,299.54,Kelvin (K),0,Milisegundos (ms),5
+131,299.54,Kelvin (K),500,Milisegundos (ms),5
+132,299.54,Kelvin (K),1000,Milisegundos (ms),5
+133,299.54,Kelvin (K),1500,Milisegundos (ms),5
+134,299.54,Kelvin (K),2000,Milisegundos (ms),5
+135,299.54,Kelvin (K),2500,Milisegundos (ms),5
+136,299.54,Kelvin (K),3000,Milisegundos (ms),5
+137,299.05,Kelvin (K),3500,Milisegundos (ms),5
+138,299.54,Kelvin (K),4000,Milisegundos (ms),5
+139,299.54,Kelvin (K),4500,Milisegundos (ms),5
+140,299.05,Kelvin (K),5000,Milisegundos (ms),5
+141,299.54,Kelvin (K),5500,Milisegundos (ms),5
+142,299.54,Kelvin (K),6000,Milisegundos (ms),5
+143,299.05,Kelvin (K),6500,Milisegundos (ms),5
+144,299.05,Kelvin (K),7000,Milisegundos (ms),5
+145,299.54,Kelvin (K),7500,Milisegundos (ms),5
+146,299.05,Kelvin (K),8000,Milisegundos (ms),5
+147,299.54,Kelvin (K),8500,Milisegundos (ms),5
+148,79.5,Farenheit (F),0,Minutos (M),6
+149,79.5,Farenheit (F),0.01,Minutos (M),6
+150,79.5,Farenheit (F),0.02,Minutos (M),6
+151,78.62,Farenheit (F),0.03,Minutos (M),6
+152,79.5,Farenheit (F),0.03,Minutos (M),6
+153,79.5,Farenheit (F),0.04,Minutos (M),6
+154,79.5,Farenheit (F),0.05,Minutos (M),6
+155,79.5,Farenheit (F),0.06,Minutos (M),6
+156,78.62,Farenheit (F),0.07,Minutos (M),6
+157,79.5,Farenheit (F),0.08,Minutos (M),6
+158,79.5,Farenheit (F),0.08,Minutos (M),6
+159,78.62,Farenheit (F),0.09,Minutos (M),6
+160,78.62,Farenheit (F),0.1,Minutos (M),6
+161,80.38,Farenheit (F),0.11,Minutos (M),6
+162,81.27,Farenheit (F),0.12,Minutos (M),6
+163,82.15,Farenheit (F),0.13,Minutos (M),6
+164,83.03,Farenheit (F),0.13,Minutos (M),6
+165,83.91,Farenheit (F),0.14,Minutos (M),6
+166,83.91,Farenheit (F),0.15,Minutos (M),6
+167,85.66,Farenheit (F),0.16,Minutos (M),6
+168,85.66,Farenheit (F),0.17,Minutos (M),6
+169,85.66,Farenheit (F),0.18,Minutos (M),6
+170,86.54,Farenheit (F),0.18,Minutos (M),6
+171,86.54,Farenheit (F),0.19,Minutos (M),6
+172,86.54,Farenheit (F),0.2,Minutos (M),6
+173,86.54,Farenheit (F),0.21,Minutos (M),6
+174,87.42,Farenheit (F),0.22,Minutos (M),6
+175,87.42,Farenheit (F),0.23,Minutos (M),6
+176,87.42,Farenheit (F),0.23,Minutos (M),6
+177,87.42,Farenheit (F),0.24,Minutos (M),6
+178,87.42,Farenheit (F),0.25,Minutos (M),6
+179,88.3,Farenheit (F),0.26,Minutos (M),6
+180,87.42,Farenheit (F),0.27,Minutos (M),6
+181,87.42,Farenheit (F),0.28,Minutos (M),6
+182,88.3,Farenheit (F),0.28,Minutos (M),6
+183,26.88,Celsius (C),0,Segundos (s),7
+184,26.88,Celsius (C),0.5,Segundos (s),7
+185,26.88,Celsius (C),1,Segundos (s),7
+186,26.88,Celsius (C),1.5,Segundos (s),7
+187,26.88,Celsius (C),2,Segundos (s),7
+188,26.88,Celsius (C),2.5,Segundos (s),7
+189,26.88,Celsius (C),3,Segundos (s),7
+190,29.81,Celsius (C),3.5,Segundos (s),7
+191,29.33,Celsius (C),4,Segundos (s),7
+192,28.84,Celsius (C),4.5,Segundos (s),7
+193,28.35,Celsius (C),5,Segundos (s),7
+194,28.35,Celsius (C),5.5,Segundos (s),7
+195,27.86,Celsius (C),6,Segundos (s),7
+196,27.86,Celsius (C),6.5,Segundos (s),7
+197,27.86,Celsius (C),7,Segundos (s),7
+198,27.86,Celsius (C),7.5,Segundos (s),7
+199,27.86,Celsius (C),8,Segundos (s),7
+200,27.86,Celsius (C),8.5,Segundos (s),7
+201,27.86,Celsius (C),9,Segundos (s),7
+202,27.86,Celsius (C),9.5,Segundos (s),7
+203,27.86,Celsius (C),10,Segundos (s),7
+204,27.86,Celsius (C),10.5,Segundos (s),7
+205,27.37,Celsius (C),11,Segundos (s),7
+206,27.86,Celsius (C),11.5,Segundos (s),7
+207,27.86,Celsius (C),12,Segundos (s),7
+208,27.37,Celsius (C),12.5,Segundos (s),7
+209,27.37,Celsius (C),13,Segundos (s),7
+210,27.37,Celsius (C),13.5,Segundos (s),7
+211,27.37,Celsius (C),14,Segundos (s),7
+212,27.37,Celsius (C),14.5,Segundos (s),7
+213,27.37,Celsius (C),15,Segundos (s),7
+214,27.37,Celsius (C),15.5,Segundos (s),7
+215,27.37,Celsius (C),16,Segundos (s),7
+216,27.37,Celsius (C),16.5,Segundos (s),7
+217,27.37,Celsius (C),17,Segundos (s),7
+218,27.37,Celsius (C),17.5,Segundos (s),7
+219,27.37,Celsius (C),18,Segundos (s),7
+220,27.37,Celsius (C),18.5,Segundos (s),7
+221,27.37,Celsius (C),19,Segundos (s),7
+222,27.37,Celsius (C),19.5,Segundos (s),7
+223,27.37,Celsius (C),20,Segundos (s),7
+224,27.37,Celsius (C),20.5,Segundos (s),7
+225,27.37,Celsius (C),21,Segundos (s),7
+226,27.37,Celsius (C),21.5,Segundos (s),7
+227,27.37,Celsius (C),22,Segundos (s),7
+228,27.37,Celsius (C),22.5,Segundos (s),7
+229,27.37,Celsius (C),23,Segundos (s),7
+230,27.37,Celsius (C),23.5,Segundos (s),7
+231,27.37,Celsius (C),24,Segundos (s),7
+232,27.37,Celsius (C),24.5,Segundos (s),7
+233,27.37,Celsius (C),25,Segundos (s),7
+234,27.37,Celsius (C),25.5,Segundos (s),7
+235,27.37,Celsius (C),26,Segundos (s),7
+236,27.86,Celsius (C),26.5,Segundos (s),7
+237,27.37,Celsius (C),27,Segundos (s),7
+238,27.37,Celsius (C),27.5,Segundos (s),7
+239,27.37,Celsius (C),28,Segundos (s),7
+240,27.86,Celsius (C),28.5,Segundos (s),7
+241,27.37,Celsius (C),29,Segundos (s),7
+242,27.37,Celsius (C),29.5,Segundos (s),7
+243,27.37,Celsius (C),30,Segundos (s),7
+244,27.37,Celsius (C),30.5,Segundos (s),7
+245,27.37,Celsius (C),31,Segundos (s),7
+246,27.37,Celsius (C),31.5,Segundos (s),7
+247,27.37,Celsius (C),32,Segundos (s),7
+248,27.37,Celsius (C),32.5,Segundos (s),7
+249,76.82,Farenheit (F),0,Minutos (M),9
+250,37.4,Farenheit (F),0.008333334,Minutos (M),9
+251,76.874,Farenheit (F),0.016666668,Minutos (M),9
+252,76.874,Farenheit (F),0.025000002,Minutos (M),9
+253,76.874,Farenheit (F),0.033333335,Minutos (M),9
+254,75.992004,Farenheit (F),0.041666668,Minutos (M),9
+255,76.874,Farenheit (F),0.05,Minutos (M),9
+256,76.874,Farenheit (F),0.058333334,Minutos (M),9
+257,76.874,Farenheit (F),0.06666667,Minutos (M),9
+258,76.874,Farenheit (F),0.075,Minutos (M),9
+259,76.874,Farenheit (F),0.083333336,Minutos (M),9
+260,75.992004,Farenheit (F),0.09166667,Minutos (M),9
+261,75.992004,Farenheit (F),0.1,Minutos (M),9
+262,75.992004,Farenheit (F),0.108333334,Minutos (M),9
+263,75.992004,Farenheit (F),0.11666667,Minutos (M),9
+264,75.992004,Farenheit (F),0.125,Minutos (M),9
+265,75.992004,Farenheit (F),0.13333334,Minutos (M),9
+266,76.874,Farenheit (F),0.14166668,Minutos (M),9
+267,75.992004,Farenheit (F),0.15000002,Minutos (M),9
+268,75.992004,Farenheit (F),0.15833336,Minutos (M),9
+269,76.874,Farenheit (F),0.1666667,Minutos (M),9
+270,76.874,Farenheit (F),0.17500004,Minutos (M),9
+271,76.874,Farenheit (F),0.18333338,Minutos (M),9
+272,77.756,Farenheit (F),0.19166672,Minutos (M),9
+273,78.619995,Farenheit (F),0.20000006,Minutos (M),9
+274,80.384,Farenheit (F),0.2083334,Minutos (M),9
+275,81.266,Farenheit (F),0.21666674,Minutos (M),9
+276,82.147995,Farenheit (F),0.22500008,Minutos (M),9
+277,82.147995,Farenheit (F),0.23333342,Minutos (M),9
+278,83.03,Farenheit (F),0.24166676,Minutos (M),9
+279,83.03,Farenheit (F),0.2500001,Minutos (M),9
+280,83.912,Farenheit (F),0.2583334,Minutos (M),9
+281,83.912,Farenheit (F),0.26666674,Minutos (M),9
+282,83.912,Farenheit (F),0.27500007,Minutos (M),9
+283,83.912,Farenheit (F),0.2833334,Minutos (M),9
+284,84.794,Farenheit (F),0.29166672,Minutos (M),9
+285,84.794,Farenheit (F),0.30000004,Minutos (M),9
+286,85.658,Farenheit (F),0.30833337,Minutos (M),9
+287,85.658,Farenheit (F),0.3166667,Minutos (M),9
+288,85.658,Farenheit (F),0.32500002,Minutos (M),9
+289,85.658,Farenheit (F),0.33333334,Minutos (M),9
+290,85.658,Farenheit (F),0.34166667,Minutos (M),9
+291,85.658,Farenheit (F),0.35,Minutos (M),9
+292,86.53999,Farenheit (F),0.35833332,Minutos (M),9
+293,86.53999,Farenheit (F),0.36666664,Minutos (M),9
+294,85.658,Farenheit (F),0.37499997,Minutos (M),9
+295,86.53999,Farenheit (F),0.3833333,Minutos (M),9
+296,86.53999,Farenheit (F),0.39166662,Minutos (M),9
+297,86.53999,Farenheit (F),0.39999995,Minutos (M),9
+298,86.53999,Farenheit (F),0.40833327,Minutos (M),9
+299,86.53999,Farenheit (F),0.4166666,Minutos (M),9
+300,86.53999,Farenheit (F),0.42499992,Minutos (M),9
+301,86.53999,Farenheit (F),0.43333325,Minutos (M),9
+302,86.53999,Farenheit (F),0.44166657,Minutos (M),9
+303,86.53999,Farenheit (F),0.4499999,Minutos (M),9
+304,86.53999,Farenheit (F),0.45833322,Minutos (M),9
+305,86.53999,Farenheit (F),0.46666655,Minutos (M),9
+306,85.658,Farenheit (F),0.47499987,Minutos (M),9
+307,85.658,Farenheit (F),0.4833332,Minutos (M),9
+308,85.658,Farenheit (F),0.49166653,Minutos (M),9
+309,84.794,Farenheit (F),0.49999985,Minutos (M),9
+310,84.794,Farenheit (F),0.5083332,Minutos (M),9
+311,83.912,Farenheit (F),0.51666653,Minutos (M),9
+312,83.912,Farenheit (F),0.52499986,Minutos (M),9
+313,83.912,Farenheit (F),0.5333332,Minutos (M),9
+314,83.03,Farenheit (F),0.5416665,Minutos (M),9
+315,83.03,Farenheit (F),0.54999983,Minutos (M),9
+316,83.03,Farenheit (F),0.55833316,Minutos (M),9
+317,83.03,Farenheit (F),0.5666665,Minutos (M),9
+318,83.03,Farenheit (F),0.5749998,Minutos (M),9
+319,82.147995,Farenheit (F),0.58333313,Minutos (M),9
+320,83.03,Farenheit (F),0.59166646,Minutos (M),9
+321,82.147995,Farenheit (F),0.5999998,Minutos (M),9
+322,82.147995,Farenheit (F),0.6083331,Minutos (M),9
+323,81.266,Farenheit (F),0.61666644,Minutos (M),9
+324,81.266,Farenheit (F),0.62499976,Minutos (M),9
+325,81.266,Farenheit (F),0.6333331,Minutos (M),9
+326,81.266,Farenheit (F),0.6416664,Minutos (M),9
+327,81.266,Farenheit (F),0.64999974,Minutos (M),9
+328,81.266,Farenheit (F),0.65833306,Minutos (M),9
+329,81.266,Farenheit (F),0.6666664,Minutos (M),9
+330,81.266,Farenheit (F),0.6749997,Minutos (M),9
+331,80.384,Farenheit (F),0.68333304,Minutos (M),9
+332,80.384,Farenheit (F),0.69166636,Minutos (M),9
+333,80.384,Farenheit (F),0.6999997,Minutos (M),9
+334,80.384,Farenheit (F),0.708333,Minutos (M),9
+335,80.384,Farenheit (F),0.71666634,Minutos (M),9
+336,80.384,Farenheit (F),0.72499967,Minutos (M),9
+337,80.384,Farenheit (F),0.733333,Minutos (M),9
+338,79.502,Farenheit (F),0.7416663,Minutos (M),9
+339,79.502,Farenheit (F),0.74999964,Minutos (M),9
+340,79.502,Farenheit (F),0.75833297,Minutos (M),9
+341,79.502,Farenheit (F),0.7666663,Minutos (M),9
+342,79.502,Farenheit (F),0.7749996,Minutos (M),9
+343,79.502,Farenheit (F),0.78333294,Minutos (M),9
+344,79.502,Farenheit (F),0.79166627,Minutos (M),9
+345,78.619995,Farenheit (F),0.7999996,Minutos (M),9
+346,79.502,Farenheit (F),0.8083329,Minutos (M),9
+347,79.502,Farenheit (F),0.81666625,Minutos (M),9
+348,78.619995,Farenheit (F),0.8249996,Minutos (M),9
+349,76.82,Farenheit (F),0,Segundos (s),10
+350,37.4,Farenheit (F),0.5,Segundos (s),10
+351,75.992004,Farenheit (F),1,Segundos (s),10
+352,76.874,Farenheit (F),1.5,Segundos (s),10
+353,76.874,Farenheit (F),2,Segundos (s),10
+354,76.874,Farenheit (F),2.5,Segundos (s),10
+355,76.874,Farenheit (F),3,Segundos (s),10
+356,76.874,Farenheit (F),3.5,Segundos (s),10
+357,76.874,Farenheit (F),4,Segundos (s),10
+358,76.874,Farenheit (F),4.5,Segundos (s),10
+359,76.874,Farenheit (F),5,Segundos (s),10
+360,76.874,Farenheit (F),5.5,Segundos (s),10
+361,76.874,Farenheit (F),6,Segundos (s),10
+362,76.874,Farenheit (F),6.5,Segundos (s),10
+363,76.874,Farenheit (F),7,Segundos (s),10
+364,76.874,Farenheit (F),7.5,Segundos (s),10
+365,76.874,Farenheit (F),8,Segundos (s),10
+366,76.874,Farenheit (F),8.5,Segundos (s),10
+367,76.874,Farenheit (F),9,Segundos (s),10
+368,86.53999,Farenheit (F),9.5,Segundos (s),10
+369,32,Farenheit (F),10,Segundos (s),10
+370,85.658,Farenheit (F),10.5,Segundos (s),10
+371,86.53999,Farenheit (F),11,Segundos (s),10
+372,85.658,Farenheit (F),11.5,Segundos (s),10
+373,86.53999,Farenheit (F),12,Segundos (s),10
+374,86.53999,Farenheit (F),12.5,Segundos (s),10
+375,86.53999,Farenheit (F),13,Segundos (s),10
+376,86.53999,Farenheit (F),13.5,Segundos (s),10
+377,86.53999,Farenheit (F),14,Segundos (s),10
+378,86.53999,Farenheit (F),14.5,Segundos (s),10
+379,86.53999,Farenheit (F),15,Segundos (s),10
+380,86.53999,Farenheit (F),15.5,Segundos (s),10
+381,86.53999,Farenheit (F),16,Segundos (s),10
+382,86.53999,Farenheit (F),16.5,Segundos (s),10
+383,86.53999,Farenheit (F),17,Segundos (s),10
+384,86.53999,Farenheit (F),17.5,Segundos (s),10
+385,73.34599,Farenheit (F),0,Segundos (s),11
+386,73.34599,Farenheit (F),0.5,Segundos (s),11
+387,73.34599,Farenheit (F),1,Segundos (s),11
+388,73.34599,Farenheit (F),1.5,Segundos (s),11
+389,73.34599,Farenheit (F),2,Segundos (s),11
+390,72.464,Farenheit (F),2.5,Segundos (s),11
+391,73.34599,Farenheit (F),3,Segundos (s),11
+392,73.34599,Farenheit (F),3.5,Segundos (s),11
+393,72.464,Farenheit (F),4,Segundos (s),11
+394,72.464,Farenheit (F),4.5,Segundos (s),11
+395,73.34599,Farenheit (F),5,Segundos (s),11
+396,73.34599,Farenheit (F),5.5,Segundos (s),11
+397,73.34599,Farenheit (F),6,Segundos (s),11
+398,73.34599,Farenheit (F),6.5,Segundos (s),11
+399,72.464,Farenheit (F),7,Segundos (s),11
+400,73.34599,Farenheit (F),7.5,Segundos (s),11
+401,73.34599,Farenheit (F),8,Segundos (s),11
+402,72.464,Farenheit (F),8.5,Segundos (s),11
+403,73.34599,Farenheit (F),9,Segundos (s),11
+404,73.34599,Farenheit (F),9.5,Segundos (s),11
+405,73.34599,Farenheit (F),10,Segundos (s),11
+406,73.34599,Farenheit (F),10.5,Segundos (s),11
+407,73.34599,Farenheit (F),11,Segundos (s),11
+408,74.228,Farenheit (F),11.5,Segundos (s),11
+409,75.11,Farenheit (F),12,Segundos (s),11
+410,75.11,Farenheit (F),12.5,Segundos (s),11
+411,75.992004,Farenheit (F),13,Segundos (s),11
+412,75.992004,Farenheit (F),13.5,Segundos (s),11
+413,75.992004,Farenheit (F),14,Segundos (s),11
+414,76.874,Farenheit (F),14.5,Segundos (s),11
+415,76.874,Farenheit (F),15,Segundos (s),11
+416,76.874,Farenheit (F),15.5,Segundos (s),11
+417,76.874,Farenheit (F),16,Segundos (s),11
+418,76.874,Farenheit (F),16.5,Segundos (s),11
+419,76.874,Farenheit (F),17,Segundos (s),11
+420,76.874,Farenheit (F),17.5,Segundos (s),11
+421,76.874,Farenheit (F),18,Segundos (s),11
+422,75.992004,Farenheit (F),18.5,Segundos (s),11
+423,75.992004,Farenheit (F),19,Segundos (s),11
+424,75.992004,Farenheit (F),19.5,Segundos (s),11
+425,75.992004,Farenheit (F),20,Segundos (s),11
+426,75.992004,Farenheit (F),20.5,Segundos (s),11
+427,75.992004,Farenheit (F),21,Segundos (s),11
+428,75.992004,Farenheit (F),21.5,Segundos (s),11
+429,76.874,Farenheit (F),22,Segundos (s),11
+430,75.992004,Farenheit (F),22.5,Segundos (s),11
+431,75.992004,Farenheit (F),23,Segundos (s),11
+432,75.992004,Farenheit (F),23.5,Segundos (s),11
+433,76.874,Farenheit (F),24,Segundos (s),11
+434,76.874,Farenheit (F),24.5,Segundos (s),11
+435,76.874,Farenheit (F),25,Segundos (s),11
+436,76.874,Farenheit (F),25.5,Segundos (s),11
+437,76.874,Farenheit (F),26,Segundos (s),11
+438,76.874,Farenheit (F),26.5,Segundos (s),11
+439,76.874,Farenheit (F),27,Segundos (s),11
+440,76.874,Farenheit (F),27.5,Segundos (s),11
+441,75.992004,Farenheit (F),28,Segundos (s),11
+442,75.992004,Farenheit (F),28.5,Segundos (s),11
+443,75.992004,Farenheit (F),29,Segundos (s),11
+444,75.992004,Farenheit (F),29.5,Segundos (s),11
+445,75.992004,Farenheit (F),30,Segundos (s),11
+446,75.992004,Farenheit (F),30.5,Segundos (s),11
+447,75.992004,Farenheit (F),31,Segundos (s),11
+448,75.992004,Farenheit (F),31.5,Segundos (s),11
+449,23.9,Celsius (C),0,Segundos (s),12
+450,5,Celsius (C),0.5,Segundos (s),12
+451,23.95,Celsius (C),1,Segundos (s),12
+452,23.46,Celsius (C),1.5,Segundos (s),12
+453,23.95,Celsius (C),2,Segundos (s),12
+454,23.95,Celsius (C),2.5,Segundos (s),12
+455,24.44,Celsius (C),3,Segundos (s),12
+456,23.46,Celsius (C),3.5,Segundos (s),12
+457,23.95,Celsius (C),4,Segundos (s),12
+458,23.95,Celsius (C),4.5,Segundos (s),12
+459,23.46,Celsius (C),5,Segundos (s),12
+460,23.95,Celsius (C),5.5,Segundos (s),12
+461,23.46,Celsius (C),6,Segundos (s),12
+462,23.46,Celsius (C),6.5,Segundos (s),12
+463,23.95,Celsius (C),7,Segundos (s),12
+464,23.95,Celsius (C),7.5,Segundos (s),12
+465,23.46,Celsius (C),8,Segundos (s),12
+466,23.46,Celsius (C),8.5,Segundos (s),12
+467,23.95,Celsius (C),9,Segundos (s),12
+468,23.95,Celsius (C),9.5,Segundos (s),12
+469,23.95,Celsius (C),10,Segundos (s),12
+470,23.46,Celsius (C),10.5,Segundos (s),12
+471,23.46,Celsius (C),11,Segundos (s),12
+472,23.46,Celsius (C),11.5,Segundos (s),12
+473,23.46,Celsius (C),12,Segundos (s),12
+474,23.46,Celsius (C),12.5,Segundos (s),12
+475,23.95,Celsius (C),13,Segundos (s),12
+476,23.95,Celsius (C),13.5,Segundos (s),12
+477,23.95,Celsius (C),14,Segundos (s),12
+478,23.95,Celsius (C),14.5,Segundos (s),12
+479,23.95,Celsius (C),15,Segundos (s),12
+480,23.95,Celsius (C),15.5,Segundos (s),12
+481,23.95,Celsius (C),16,Segundos (s),12
+482,23.46,Celsius (C),16.5,Segundos (s),12
+483,23.95,Celsius (C),17,Segundos (s),12
+484,23.46,Celsius (C),17.5,Segundos (s),12
+485,23.46,Celsius (C),18,Segundos (s),12
+486,23.46,Celsius (C),18.5,Segundos (s),12
+487,22.97,Celsius (C),19,Segundos (s),12
+488,23.95,Celsius (C),19.5,Segundos (s),12
+489,23.95,Celsius (C),20,Segundos (s),12
+490,23.95,Celsius (C),20.5,Segundos (s),12
+491,23.95,Celsius (C),21,Segundos (s),12
+492,23.46,Celsius (C),21.5,Segundos (s),12
+493,23.95,Celsius (C),22,Segundos (s),12
+494,23.95,Celsius (C),22.5,Segundos (s),12
+495,23.46,Celsius (C),23,Segundos (s),12
+496,23.46,Celsius (C),23.5,Segundos (s),12
+497,23.95,Celsius (C),24,Segundos (s),12
+498,23.46,Celsius (C),24.5,Segundos (s),12
+499,23.4,Celsius (C),25,Segundos (s),12
+500,6,Celsius (C),25.5,Segundos (s),12
+501,23.46,Celsius (C),26,Segundos (s),12
+502,23.46,Celsius (C),26.5,Segundos (s),12
+503,23.46,Celsius (C),27,Segundos (s),12
+504,23.46,Celsius (C),27.5,Segundos (s),12
+505,23.46,Celsius (C),28,Segundos (s),12
+506,23.95,Celsius (C),28.5,Segundos (s),12
+507,23.95,Celsius (C),29,Segundos (s),12
+508,23.46,Celsius (C),29.5,Segundos (s),12
+509,23.46,Celsius (C),30,Segundos (s),12
+510,23.95,Celsius (C),30.5,Segundos (s),12
+511,23.46,Celsius (C),31,Segundos (s),12
+512,23.46,Celsius (C),31.5,Segundos (s),12
+513,23.46,Celsius (C),32,Segundos (s),12
+514,23.95,Celsius (C),32.5,Segundos (s),12
+515,23.46,Celsius (C),33,Segundos (s),12
+516,23.46,Celsius (C),33.5,Segundos (s),12
+517,23.46,Celsius (C),34,Segundos (s),12
+518,23.46,Celsius (C),34.5,Segundos (s),12
+519,23.95,Celsius (C),35,Segundos (s),12
+520,23.46,Celsius (C),35.5,Segundos (s),12
+521,23.46,Celsius (C),36,Segundos (s),12
+522,23.46,Celsius (C),36.5,Segundos (s),12
+523,22.97,Celsius (C),37,Segundos (s),12
+524,23.95,Celsius (C),37.5,Segundos (s),12
+525,23.95,Celsius (C),38,Segundos (s),12
+526,23.46,Celsius (C),38.5,Segundos (s),12
+527,23.46,Celsius (C),39,Segundos (s),12
+528,23.46,Celsius (C),39.5,Segundos (s),12
+529,23.46,Celsius (C),40,Segundos (s),12
+530,23.46,Celsius (C),40.5,Segundos (s),12
+531,23.46,Celsius (C),41,Segundos (s),12
+532,23.46,Celsius (C),41.5,Segundos (s),12
+533,23.95,Celsius (C),42,Segundos (s),12
+534,23.46,Celsius (C),42.5,Segundos (s),12
+535,23.46,Celsius (C),43,Segundos (s),12
+536,23.46,Celsius (C),43.5,Segundos (s),12
+537,23.46,Celsius (C),44,Segundos (s),12
+538,23.46,Celsius (C),44.5,Segundos (s),12
+539,23.95,Celsius (C),45,Segundos (s),12
+540,24.44,Celsius (C),45.5,Segundos (s),12
+541,24.93,Celsius (C),46,Segundos (s),12
+542,24.93,Celsius (C),46.5,Segundos (s),12
+543,25.42,Celsius (C),47,Segundos (s),12
+544,25.42,Celsius (C),47.5,Segundos (s),12
+545,25.9,Celsius (C),48,Segundos (s),12
+546,25.9,Celsius (C),48.5,Segundos (s),12
+547,25.9,Celsius (C),49,Segundos (s),12
+548,25.9,Celsius (C),49.5,Segundos (s),12
+549,22.9,Celsius (C),0,Milisegundos (ms),13
+550,7,Celsius (C),500,Milisegundos (ms),13
+551,23.46,Celsius (C),1000,Milisegundos (ms),13
+552,22.97,Celsius (C),1500,Milisegundos (ms),13
+553,22.97,Celsius (C),2000,Milisegundos (ms),13
+554,23.46,Celsius (C),2500,Milisegundos (ms),13
+555,22.97,Celsius (C),3000,Milisegundos (ms),13
+556,23.46,Celsius (C),3500,Milisegundos (ms),13
+557,22.97,Celsius (C),4000,Milisegundos (ms),13
+558,23.46,Celsius (C),4500,Milisegundos (ms),13
+559,22.97,Celsius (C),5000,Milisegundos (ms),13
+560,23.46,Celsius (C),5500,Milisegundos (ms),13
+561,23.46,Celsius (C),6000,Milisegundos (ms),13
+562,22.97,Celsius (C),6500,Milisegundos (ms),13
+563,22.97,Celsius (C),7000,Milisegundos (ms),13
+564,23.46,Celsius (C),7500,Milisegundos (ms),13
+565,23.46,Celsius (C),8000,Milisegundos (ms),13
+566,22.97,Celsius (C),8500,Milisegundos (ms),13
+567,22.97,Celsius (C),9000,Milisegundos (ms),13
+568,22.97,Celsius (C),9500,Milisegundos (ms),13
+569,22.97,Celsius (C),10000,Milisegundos (ms),13
+570,22.97,Celsius (C),10500,Milisegundos (ms),13
+571,22.97,Celsius (C),11000,Milisegundos (ms),13
+572,22.97,Celsius (C),11500,Milisegundos (ms),13
+573,22.97,Celsius (C),12000,Milisegundos (ms),13
+574,22.97,Celsius (C),12500,Milisegundos (ms),13
+575,22.97,Celsius (C),13000,Milisegundos (ms),13
+576,23.46,Celsius (C),13500,Milisegundos (ms),13
+577,23.95,Celsius (C),14000,Milisegundos (ms),13
+578,23.95,Celsius (C),14500,Milisegundos (ms),13
+579,23.46,Celsius (C),15000,Milisegundos (ms),13
+580,23.46,Celsius (C),15500,Milisegundos (ms),13
+581,23.95,Celsius (C),16000,Milisegundos (ms),13
+582,23.95,Celsius (C),16500,Milisegundos (ms),13
+583,24.93,Celsius (C),17000,Milisegundos (ms),13
+584,24.44,Celsius (C),17500,Milisegundos (ms),13
+585,24.93,Celsius (C),18000,Milisegundos (ms),13
+586,24.93,Celsius (C),18500,Milisegundos (ms),13
+587,25.42,Celsius (C),19000,Milisegundos (ms),13
+588,25.9,Celsius (C),19500,Milisegundos (ms),13
+589,25.9,Celsius (C),20000,Milisegundos (ms),13
+590,25.42,Celsius (C),20500,Milisegundos (ms),13
+591,25.9,Celsius (C),21000,Milisegundos (ms),13
+592,26.39,Celsius (C),21500,Milisegundos (ms),13
+593,26.39,Celsius (C),22000,Milisegundos (ms),13
+594,25.9,Celsius (C),22500,Milisegundos (ms),13
+595,25.9,Celsius (C),23000,Milisegundos (ms),13
+596,25.9,Celsius (C),23500,Milisegundos (ms),13
+597,26.39,Celsius (C),24000,Milisegundos (ms),13
+598,26.39,Celsius (C),24500,Milisegundos (ms),13
+599,26.39,Celsius (C),25000,Milisegundos (ms),13
+600,26.88,Celsius (C),25500,Milisegundos (ms),13
+601,26.88,Celsius (C),26000,Milisegundos (ms),13
+602,26.88,Celsius (C),26500,Milisegundos (ms),13
+603,26.88,Celsius (C),27000,Milisegundos (ms),13
+604,26.88,Celsius (C),27500,Milisegundos (ms),13
+605,26.39,Celsius (C),28000,Milisegundos (ms),13
+606,26.88,Celsius (C),28500,Milisegundos (ms),13
+607,27.37,Celsius (C),29000,Milisegundos (ms),13
+608,27.37,Celsius (C),29500,Milisegundos (ms),13
+609,26.88,Celsius (C),30000,Milisegundos (ms),13
+610,27.37,Celsius (C),30500,Milisegundos (ms),13
+611,27.37,Celsius (C),31000,Milisegundos (ms),13
+612,27.37,Celsius (C),31500,Milisegundos (ms),13
+613,26.88,Celsius (C),32000,Milisegundos (ms),13
+614,26.88,Celsius (C),32500,Milisegundos (ms),13
+615,27.37,Celsius (C),33000,Milisegundos (ms),13
+616,26.88,Celsius (C),33500,Milisegundos (ms),13
+617,27.37,Celsius (C),34000,Milisegundos (ms),13
+618,27.37,Celsius (C),34500,Milisegundos (ms),13
+619,23.4,Celsius (C),0,Minutos (M),14
+620,6,Celsius (C),0.008333334,Minutos (M),14
+621,23.46,Celsius (C),0.016666668,Minutos (M),14
+622,23.46,Celsius (C),0.025000002,Minutos (M),14
+623,23.46,Celsius (C),0.033333335,Minutos (M),14
+624,23.46,Celsius (C),0.041666668,Minutos (M),14
+625,23.46,Celsius (C),0.05,Minutos (M),14
+626,23.46,Celsius (C),0.058333334,Minutos (M),14
+627,23.46,Celsius (C),0.06666667,Minutos (M),14
+628,22.97,Celsius (C),0.075,Minutos (M),14
+629,23.46,Celsius (C),0.083333336,Minutos (M),14
+630,23.46,Celsius (C),0.09166667,Minutos (M),14
+631,23.46,Celsius (C),0.1,Minutos (M),14
+632,23.95,Celsius (C),0.108333334,Minutos (M),14
+633,24.44,Celsius (C),0.11666667,Minutos (M),14
+634,24.93,Celsius (C),0.125,Minutos (M),14
+635,25.42,Celsius (C),0.13333334,Minutos (M),14
+636,25.42,Celsius (C),0.14166668,Minutos (M),14
+637,25.9,Celsius (C),0.15000002,Minutos (M),14
+638,26.39,Celsius (C),0.15833336,Minutos (M),14
+639,25.9,Celsius (C),0.1666667,Minutos (M),14
+640,26.39,Celsius (C),0.17500004,Minutos (M),14
+641,26.39,Celsius (C),0.18333338,Minutos (M),14
+642,26.39,Celsius (C),0.19166672,Minutos (M),14
+643,26.39,Celsius (C),0.20000006,Minutos (M),14
+644,26.8,Celsius (C),0.2083334,Minutos (M),14
+645,8,Celsius (C),0.21666674,Minutos (M),14
+646,26.88,Celsius (C),0.22500008,Minutos (M),14
+647,26.88,Celsius (C),0.23333342,Minutos (M),14
+648,26.88,Celsius (C),0.24166676,Minutos (M),14
+649,26.88,Celsius (C),0.2500001,Minutos (M),14
+650,26.88,Celsius (C),0.2583334,Minutos (M),14
+651,26.88,Celsius (C),0.26666674,Minutos (M),14
+652,26.88,Celsius (C),0.27500007,Minutos (M),14
+653,27.37,Celsius (C),0.2833334,Minutos (M),14
+654,26.88,Celsius (C),0.29166672,Minutos (M),14
+655,26.39,Celsius (C),0.30000004,Minutos (M),14
+656,27.37,Celsius (C),0.30833337,Minutos (M),14
+657,27.37,Celsius (C),0.3166667,Minutos (M),14
+658,26.88,Celsius (C),0.32500002,Minutos (M),14
+659,26.88,Celsius (C),0.33333334,Minutos (M),14
+660,27.37,Celsius (C),0.34166667,Minutos (M),14
+661,27.37,Celsius (C),0.35,Minutos (M),14
+662,26.88,Celsius (C),0.35833332,Minutos (M),14
+663,23.9,Celsius (C),0.36666664,Minutos (M),14
+664,5,Celsius (C),0.37499997,Minutos (M),14
+665,23.46,Celsius (C),0.3833333,Minutos (M),14
+666,23.46,Celsius (C),0.39166662,Minutos (M),14
+667,23.95,Celsius (C),0.39999995,Minutos (M),14
+668,23.46,Celsius (C),0.40833327,Minutos (M),14
+669,23.46,Celsius (C),0.4166666,Minutos (M),14
+670,23.46,Celsius (C),0.42499992,Minutos (M),14
+671,23.95,Celsius (C),0.43333325,Minutos (M),14
+672,23.46,Celsius (C),0.44166657,Minutos (M),14
+673,23.95,Celsius (C),0.4499999,Minutos (M),14
+674,23.46,Celsius (C),0.45833322,Minutos (M),14
+675,23.46,Celsius (C),0.46666655,Minutos (M),14
+676,23.46,Celsius (C),0.47499987,Minutos (M),14
+677,23.95,Celsius (C),0.4833332,Minutos (M),14
+678,23.46,Celsius (C),0.49166653,Minutos (M),14
+679,23.95,Celsius (C),0.49999985,Minutos (M),14
+680,24.44,Celsius (C),0.5083332,Minutos (M),14
+681,24.44,Celsius (C),0.51666653,Minutos (M),14
+682,24.93,Celsius (C),0.52499986,Minutos (M),14
+683,25.42,Celsius (C),0.5333332,Minutos (M),14
+684,25.9,Celsius (C),0.5416665,Minutos (M),14
+685,25.9,Celsius (C),0.54999983,Minutos (M),14
+686,26.39,Celsius (C),0.55833316,Minutos (M),14
+687,26.39,Celsius (C),0.5666665,Minutos (M),14
+688,26.39,Celsius (C),0.5749998,Minutos (M),14
+689,26.39,Celsius (C),0.58333313,Minutos (M),14
+690,26.39,Celsius (C),0.59166646,Minutos (M),14
+691,26.39,Celsius (C),0.5999998,Minutos (M),14
+692,26.88,Celsius (C),0.6083331,Minutos (M),14
+693,26.88,Celsius (C),0.61666644,Minutos (M),14
+694,26.88,Celsius (C),0.62499976,Minutos (M),14
+695,26.88,Celsius (C),0.6333331,Minutos (M),14
+696,26.88,Celsius (C),0.6416664,Minutos (M),14
+697,26.88,Celsius (C),0.64999974,Minutos (M),14
+698,27.37,Celsius (C),0.65833306,Minutos (M),14
+699,26.88,Celsius (C),0.6666664,Minutos (M),14
+700,27.37,Celsius (C),0.6749997,Minutos (M),14
+701,26.88,Celsius (C),0.68333304,Minutos (M),14
+702,26.39,Celsius (C),0.69166636,Minutos (M),14
+703,25.9,Celsius (C),0.6999997,Minutos (M),14
+704,26.39,Celsius (C),0.708333,Minutos (M),14
+705,25.42,Celsius (C),0.71666634,Minutos (M),14
+706,25.9,Celsius (C),0.72499967,Minutos (M),14
+707,25.9,Celsius (C),0.733333,Minutos (M),14
+708,25.9,Celsius (C),0.7416663,Minutos (M),14
+709,25.42,Celsius (C),0.74999964,Minutos (M),14
+710,25.42,Celsius (C),0.75833297,Minutos (M),14
+711,24.93,Celsius (C),0.7666663,Minutos (M),14
+712,25.42,Celsius (C),0.7749996,Minutos (M),14
+713,25.42,Celsius (C),0.78333294,Minutos (M),14
+714,25.42,Celsius (C),0.79166627,Minutos (M),14
+715,25.42,Celsius (C),0.7999996,Minutos (M),14
+716,24.93,Celsius (C),0.8083329,Minutos (M),14
+717,24.93,Celsius (C),0.81666625,Minutos (M),14
+718,25.42,Celsius (C),0.8249996,Minutos (M),14
+719,24.93,Celsius (C),0.8333329,Minutos (M),14
+720,24.93,Celsius (C),0.8416662,Minutos (M),14
+721,24.93,Celsius (C),0.84999955,Minutos (M),14
+722,24.44,Celsius (C),0.8583329,Minutos (M),14
+723,24.44,Celsius (C),0.8666662,Minutos (M),14
+724,197,Celsius (C),0,Segundos (s),0
+725,46,Celsius (C),0.5,Segundos (s),0
+726,197.46,Celsius (C),1,Segundos (s),0
+727,197.46,Celsius (C),1.5,Segundos (s),0
+728,197.95,Celsius (C),2,Segundos (s),0
+729,2203,Celsius (C),2.5,Segundos (s),0
+730,197.95,Celsius (C),3,Segundos (s),0
+731,197.95,Celsius (C),3.5,Segundos (s),0
+732,197.95,Celsius (C),4,Segundos (s),0
+733,197.95,Celsius (C),4.5,Segundos (s),0
+734,198.44,Celsius (C),5,Segundos (s),0
+735,198,Celsius (C),5.5,Segundos (s),0
+736,92,Celsius (C),6,Segundos (s),0
+737,197.95,Celsius (C),6.5,Segundos (s),0
+738,197.95,Celsius (C),7,Segundos (s),0
+739,197.95,Celsius (C),7.5,Segundos (s),0
+740,197.95,Celsius (C),8,Segundos (s),0
+741,197.95,Celsius (C),8.5,Segundos (s),0
+742,0,Celsius (C),9,Segundos (s),0
+743,0,Celsius (C),9.5,Segundos (s),0
+744,4405,Celsius (C),10,Segundos (s),0
+745,197.46,Celsius (C),10.5,Segundos (s),0
+746,500,Celsius (C),11,Segundos (s),0
+747,500,Celsius (C),11.5,Segundos (s),0
+748,467.25,Celsius (C),12,Segundos (s),0
+749,393.94,Celsius (C),12.5,Segundos (s),0
+750,195.01,Celsius (C),13,Segundos (s),0
+751,183,Celsius (C),13.5,Segundos (s),0
+752,77,Celsius (C),14,Segundos (s),0
+753,169.6,Celsius (C),14.5,Segundos (s),0
+754,167.16,Celsius (C),15,Segundos (s),0
+755,161.29,Celsius (C),15.5,Segundos (s),0
+756,149.07,Celsius (C),16,Segundos (s),0
+757,139.78,Celsius (C),16.5,Segundos (s),0
+758,135.87,Celsius (C),17,Segundos (s),0
+759,138.32,Celsius (C),17.5,Segundos (s),0
+760,176.93,Celsius (C),18,Segundos (s),0
+761,4956,Celsius (C),18.5,Segundos (s),0
+762,224.34,Celsius (C),19,Segundos (s),0
+763,240.47,Celsius (C),19.5,Segundos (s),0
+764,212.12,Celsius (C),20,Segundos (s),0
+765,218.48,Celsius (C),20.5,Segundos (s),0
+766,201.37,Celsius (C),21,Segundos (s),0
+767,171,Celsius (C),21.5,Segundos (s),0
+768,55,Celsius (C),22,Segundos (s),0
+769,128.54,Celsius (C),22.5,Segundos (s),0
+770,157.87,Celsius (C),23,Segundos (s),0
+771,146.14,Celsius (C),23.5,Segundos (s),0
+772,448.68,Celsius (C),24,Segundos (s),0
+773,448.68,Celsius (C),24.5,Segundos (s),0
+774,448.68,Celsius (C),25,Segundos (s),0
+775,448.68,Celsius (C),25.5,Segundos (s),0
+776,448.68,Celsius (C),26,Segundos (s),0
+777,4956,Celsius (C),26.5,Segundos (s),0
+778,448.68,Celsius (C),27,Segundos (s),0
+779,448.19,Celsius (C),27.5,Segundos (s),0
+780,448.19,Celsius (C),28,Segundos (s),0
+781,448.68,Celsius (C),28.5,Segundos (s),0
+782,448.68,Celsius (C),29,Segundos (s),0
+783,448.19,Celsius (C),29.5,Segundos (s),0
+784,448,Celsius (C),30,Segundos (s),0
+785,19,Celsius (C),30.5,Segundos (s),0
+786,448.19,Celsius (C),31,Segundos (s),0
+787,197,Celsius (C),0,Segundos (s),16
+788,46,Celsius (C),0.5,Segundos (s),16
+789,197.46,Celsius (C),1,Segundos (s),16
+790,197.46,Celsius (C),1.5,Segundos (s),16
+791,197.95,Celsius (C),2,Segundos (s),16
+792,2203,Celsius (C),2.5,Segundos (s),16
+793,197.95,Celsius (C),3,Segundos (s),16
+794,197.95,Celsius (C),3.5,Segundos (s),16
+795,197.95,Celsius (C),4,Segundos (s),16
+796,197.95,Celsius (C),4.5,Segundos (s),16
+797,198.44,Celsius (C),5,Segundos (s),16
+798,198,Celsius (C),5.5,Segundos (s),16
+799,92,Celsius (C),6,Segundos (s),16
+800,197.95,Celsius (C),6.5,Segundos (s),16
+801,197.95,Celsius (C),7,Segundos (s),16
+802,197.95,Celsius (C),7.5,Segundos (s),16
+803,197.95,Celsius (C),8,Segundos (s),16
+804,197.95,Celsius (C),8.5,Segundos (s),16
+805,0,Celsius (C),9,Segundos (s),16
+806,0,Celsius (C),9.5,Segundos (s),16
+807,4405,Celsius (C),10,Segundos (s),16
+808,197.46,Celsius (C),10.5,Segundos (s),16
+809,500,Celsius (C),11,Segundos (s),16
+810,500,Celsius (C),11.5,Segundos (s),16
+811,467.25,Celsius (C),12,Segundos (s),16
+812,393.94,Celsius (C),12.5,Segundos (s),16
+813,195.01,Celsius (C),13,Segundos (s),16
+814,183,Celsius (C),13.5,Segundos (s),16
+815,77,Celsius (C),14,Segundos (s),16
+816,169.6,Celsius (C),14.5,Segundos (s),16
+817,167.16,Celsius (C),15,Segundos (s),16
+818,161.29,Celsius (C),15.5,Segundos (s),16
+819,149.07,Celsius (C),16,Segundos (s),16
+820,139.78,Celsius (C),16.5,Segundos (s),16
+821,135.87,Celsius (C),17,Segundos (s),16
+822,138.32,Celsius (C),17.5,Segundos (s),16
+823,176.93,Celsius (C),18,Segundos (s),16
+824,4956,Celsius (C),18.5,Segundos (s),16
+825,224.34,Celsius (C),19,Segundos (s),16
+826,240.47,Celsius (C),19.5,Segundos (s),16
+827,212.12,Celsius (C),20,Segundos (s),16
+828,218.48,Celsius (C),20.5,Segundos (s),16
+829,201.37,Celsius (C),21,Segundos (s),16
+830,171,Celsius (C),21.5,Segundos (s),16
+831,55,Celsius (C),22,Segundos (s),16
+832,128.54,Celsius (C),22.5,Segundos (s),16
+833,157.87,Celsius (C),23,Segundos (s),16
+834,146.14,Celsius (C),23.5,Segundos (s),16
+835,448.68,Celsius (C),24,Segundos (s),16
+836,448.68,Celsius (C),24.5,Segundos (s),16
+837,448.68,Celsius (C),25,Segundos (s),16
+838,448.68,Celsius (C),25.5,Segundos (s),16
+839,448.68,Celsius (C),26,Segundos (s),16
+840,4956,Celsius (C),26.5,Segundos (s),16
+841,448.68,Celsius (C),27,Segundos (s),16
+842,448.19,Celsius (C),27.5,Segundos (s),16
+843,448.19,Celsius (C),28,Segundos (s),16
+844,448.68,Celsius (C),28.5,Segundos (s),16
+845,448.68,Celsius (C),29,Segundos (s),16
+846,448.19,Celsius (C),29.5,Segundos (s),16
+847,448,Celsius (C),30,Segundos (s),16
+848,19,Celsius (C),30.5,Segundos (s),16
+849,448.19,Celsius (C),31,Segundos (s),16
+850,197,Celsius (C),0,Segundos (s),17
+851,46,Celsius (C),0.5,Segundos (s),17
+852,197.46,Celsius (C),1,Segundos (s),17
+853,197.46,Celsius (C),1.5,Segundos (s),17
+854,197.95,Celsius (C),2,Segundos (s),17
+855,2203,Celsius (C),2.5,Segundos (s),17
+856,197.95,Celsius (C),3,Segundos (s),17
+857,197.95,Celsius (C),3.5,Segundos (s),17
+858,197.95,Celsius (C),4,Segundos (s),17
+859,197.95,Celsius (C),4.5,Segundos (s),17
+860,198.44,Celsius (C),5,Segundos (s),17
+861,198,Celsius (C),5.5,Segundos (s),17
+862,92,Celsius (C),6,Segundos (s),17
+863,197.95,Celsius (C),6.5,Segundos (s),17
+864,197.95,Celsius (C),7,Segundos (s),17
+865,197.95,Celsius (C),7.5,Segundos (s),17
+866,197.95,Celsius (C),8,Segundos (s),17
+867,197.95,Celsius (C),8.5,Segundos (s),17
+868,0,Celsius (C),9,Segundos (s),17
+869,0,Celsius (C),9.5,Segundos (s),17
+870,4405,Celsius (C),10,Segundos (s),17
+871,197.46,Celsius (C),10.5,Segundos (s),17
+872,500,Celsius (C),11,Segundos (s),17
+873,500,Celsius (C),11.5,Segundos (s),17
+874,467.25,Celsius (C),12,Segundos (s),17
+875,393.94,Celsius (C),12.5,Segundos (s),17
+876,195.01,Celsius (C),13,Segundos (s),17
+877,183,Celsius (C),13.5,Segundos (s),17
+878,77,Celsius (C),14,Segundos (s),17
+879,169.6,Celsius (C),14.5,Segundos (s),17
+880,167.16,Celsius (C),15,Segundos (s),17
+881,161.29,Celsius (C),15.5,Segundos (s),17
+882,149.07,Celsius (C),16,Segundos (s),17
+883,139.78,Celsius (C),16.5,Segundos (s),17
+884,135.87,Celsius (C),17,Segundos (s),17
+885,138.32,Celsius (C),17.5,Segundos (s),17
+886,176.93,Celsius (C),18,Segundos (s),17
+887,4956,Celsius (C),18.5,Segundos (s),17
+888,224.34,Celsius (C),19,Segundos (s),17
+889,240.47,Celsius (C),19.5,Segundos (s),17
+890,212.12,Celsius (C),20,Segundos (s),17
+891,218.48,Celsius (C),20.5,Segundos (s),17
+892,201.37,Celsius (C),21,Segundos (s),17
+893,171,Celsius (C),21.5,Segundos (s),17
+894,55,Celsius (C),22,Segundos (s),17
+895,128.54,Celsius (C),22.5,Segundos (s),17
+896,157.87,Celsius (C),23,Segundos (s),17
+897,146.14,Celsius (C),23.5,Segundos (s),17
+898,448.68,Celsius (C),24,Segundos (s),17
+899,448.68,Celsius (C),24.5,Segundos (s),17
+900,448.68,Celsius (C),25,Segundos (s),17
+901,448.68,Celsius (C),25.5,Segundos (s),17
+902,448.68,Celsius (C),26,Segundos (s),17
+903,4956,Celsius (C),26.5,Segundos (s),17
+904,448.68,Celsius (C),27,Segundos (s),17
+905,448.19,Celsius (C),27.5,Segundos (s),17
+906,448.19,Celsius (C),28,Segundos (s),17
+907,448.68,Celsius (C),28.5,Segundos (s),17
+908,448.68,Celsius (C),29,Segundos (s),17
+909,448.19,Celsius (C),29.5,Segundos (s),17
+910,448,Celsius (C),30,Segundos (s),17
+911,19,Celsius (C),30.5,Segundos (s),17
+912,448.19,Celsius (C),31,Segundos (s),17
+913,30.3,Celsius (C),0,Segundos (s),19
+914,0,Celsius (C),0.5,Segundos (s),19
+915,29.81,Celsius (C),1,Segundos (s),19
+916,30.3,Celsius (C),1.5,Segundos (s),19
+917,30.3,Celsius (C),2,Segundos (s),19
+918,30.3,Celsius (C),2.5,Segundos (s),19
+919,30.3,Celsius (C),3,Segundos (s),19
+920,30.3,Celsius (C),3.5,Segundos (s),19
+921,30.3,Celsius (C),4,Segundos (s),19
+922,30.3,Celsius (C),4.5,Segundos (s),19
+923,30.3,Celsius (C),5,Segundos (s),19
+924,30.79,Celsius (C),5.5,Segundos (s),19
+925,30.79,Celsius (C),6,Segundos (s),19
+926,31.28,Celsius (C),6.5,Segundos (s),19
+927,31.28,Celsius (C),7,Segundos (s),19
+928,31.28,Celsius (C),7.5,Segundos (s),19
+929,31.28,Celsius (C),8,Segundos (s),19
+930,31.28,Celsius (C),8.5,Segundos (s),19
+931,31.28,Celsius (C),9,Segundos (s),19
+932,31.28,Celsius (C),9.5,Segundos (s),19
+933,31.77,Celsius (C),10,Segundos (s),19
+934,31.77,Celsius (C),10.5,Segundos (s),19
+935,31.77,Celsius (C),11,Segundos (s),19
+936,31.77,Celsius (C),11.5,Segundos (s),19
+937,31.77,Celsius (C),12,Segundos (s),19
+938,31.77,Celsius (C),12.5,Segundos (s),19
+939,31.77,Celsius (C),13,Segundos (s),19
+940,31.77,Celsius (C),13.5,Segundos (s),19
+941,31.77,Celsius (C),14,Segundos (s),19
+942,31.77,Celsius (C),14.5,Segundos (s),19
+943,31.77,Celsius (C),15,Segundos (s),19
+944,31.77,Celsius (C),15.5,Segundos (s),19
+945,32.26,Celsius (C),16,Segundos (s),19
+946,32.26,Celsius (C),16.5,Segundos (s),19
+947,31.77,Celsius (C),17,Segundos (s),19
+948,32.26,Celsius (C),17.5,Segundos (s),19
+949,31.77,Celsius (C),18,Segundos (s),19
+950,32.26,Celsius (C),18.5,Segundos (s),19
+951,31.77,Celsius (C),19,Segundos (s),19
+952,32.26,Celsius (C),19.5,Segundos (s),19
+953,32.26,Celsius (C),20,Segundos (s),19
+954,32.26,Celsius (C),20.5,Segundos (s),19
+955,32.26,Celsius (C),21,Segundos (s),19
+956,32.26,Celsius (C),21.5,Segundos (s),19
+957,31.77,Celsius (C),22,Segundos (s),19
+958,32.26,Celsius (C),22.5,Segundos (s),19
+959,32.26,Celsius (C),23,Segundos (s),19
+960,32.26,Celsius (C),23.5,Segundos (s),19
+961,32.26,Celsius (C),24,Segundos (s),19
+962,32.26,Celsius (C),24.5,Segundos (s),19
+963,32.26,Celsius (C),25,Segundos (s),19
+964,32.26,Celsius (C),25.5,Segundos (s),19
+965,32.26,Celsius (C),26,Segundos (s),19
+966,32.26,Celsius (C),26.5,Segundos (s),19
+967,32.26,Celsius (C),27,Segundos (s),19
+968,32.26,Celsius (C),27.5,Segundos (s),19
+969,31.77,Celsius (C),28,Segundos (s),19
+970,31.77,Celsius (C),28.5,Segundos (s),19
+971,31.77,Celsius (C),29,Segundos (s),19
+972,31.77,Celsius (C),29.5,Segundos (s),19
+973,31.77,Celsius (C),30,Segundos (s),19
+974,31.77,Celsius (C),30.5,Segundos (s),19
+975,31.28,Celsius (C),31,Segundos (s),19
+976,31.28,Celsius (C),31.5,Segundos (s),19
+977,31.77,Celsius (C),32,Segundos (s),19
+978,31.28,Celsius (C),32.5,Segundos (s),19
+979,31.28,Celsius (C),33,Segundos (s),19
+980,31.28,Celsius (C),33.5,Segundos (s),19
+981,31.28,Celsius (C),34,Segundos (s),19
+982,31.28,Celsius (C),34.5,Segundos (s),19
+983,31.28,Celsius (C),35,Segundos (s),19
+984,31.28,Celsius (C),35.5,Segundos (s),19
+985,31.28,Celsius (C),36,Segundos (s),19
+986,31.28,Celsius (C),36.5,Segundos (s),19
+987,31.28,Celsius (C),37,Segundos (s),19
+988,30.79,Celsius (C),37.5,Segundos (s),19
+989,31.28,Celsius (C),38,Segundos (s),19
+990,31.28,Celsius (C),38.5,Segundos (s),19
+991,30.79,Celsius (C),39,Segundos (s),19
+992,30.79,Celsius (C),39.5,Segundos (s),19
+993,31.28,Celsius (C),40,Segundos (s),19
+994,30.79,Celsius (C),40.5,Segundos (s),19
+995,31.28,Celsius (C),41,Segundos (s),19
+996,30.79,Celsius (C),41.5,Segundos (s),19
+997,30.79,Celsius (C),42,Segundos (s),19
+998,30.79,Celsius (C),42.5,Segundos (s),19
+999,30.79,Celsius (C),43,Segundos (s),19
+1000,30.79,Celsius (C),43.5,Segundos (s),19
